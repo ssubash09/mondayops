@@ -5,3 +5,5 @@ git status
 git checkout
 
 git merge
+
+git rebase
