@@ -13,3 +13,4 @@ git log
 git brnach
 
 git oneline
+git clone
