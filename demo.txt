@@ -11,3 +11,5 @@ git rebase
 git log
 
 git brnach
+
+git oneline
