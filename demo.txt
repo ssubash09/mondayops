@@ -13,3 +13,5 @@ git branch
 git log
 
 git cherrypick
+
+git clone
