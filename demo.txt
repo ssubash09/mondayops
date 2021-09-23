@@ -7,3 +7,9 @@ git checkout
 git merge
 
 git rebase
+
+git branch
+
+git log
+
+git cherrypick
