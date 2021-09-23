@@ -16,3 +16,5 @@ git oneline
 git clone
 
 git squash
+
+git tag
